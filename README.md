@@ -1,3 +1,4 @@
+![logo](https://github.com/Adilkhan110/Adilkhan110/blob/main/github%20banner.png)
 <h1 align="center">Hi 👋, I'm Adil Khan</h1>
 <h3 align="center">A passionate Higher Diploma in Software Engineering from Pakistan</h3>
 
