@@ -9,17 +9,17 @@
 
 <p align="left"> <a href="https://twitter.com/adilkhan110786" target="blank"><img src="https://img.shields.io/twitter/follow/adilkhan110786?logo=twitter&style=for-the-badge" alt="adilkhan110786" /></a> </p>
 
-- 🔭 I’m currently Software Engineering **Web Developer**
+- 🔭 I’m currently Software Engineering **Web Development**
 
-- 🌱 I’m currently learning **ACCP Pre-IT**
+- 🌱 I’m currently learning **ACCP 2.0**
 
-- 👯 I’m looking to collaborate on **Back-end-Developer**
+- 👯 I’m looking to collaborate on **Back-end-Developer, Front-end-Developer**
 
-- 🤝 I’m looking for help with **Nothing**
+- 🤝 I’m looking for help with **Laptop,Google, AI, VSCode**
 
-- 👨‍💻 All of my projects are available at [https://www.linkedin.com/in/adil-khan-a544012b2?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app](https://www.linkedin.com/in/adil-khan-a544012b2?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
+- 👨‍💻 All of my projects are available at (https://www.linkedin.com/in/adil-khan-a544012b2)
 
-- 💬 Ask me about **Contact Me :+923062277639**
+- 💬 Ask me about **HTML, CSS, Bootstrap, JavaScript, JQurey, Github, XML**
 
 - 📫 How to reach me **adilkhanaptech110@gmail.com**
 
