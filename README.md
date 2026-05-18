@@ -113,6 +113,16 @@
 
 ## 📊 GitHub Stats
 
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=adilkhan110&show_icons=true&theme=tokyonight&hide_border=true" />
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adilkhan110&layout=compact&theme=tokyonight&hide_border=true" />
+
+<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=adilkhan110&theme=tokyonight&hide_border=true" />
+
+</div>
+
 ---
 
 ## 🚀 Goals
