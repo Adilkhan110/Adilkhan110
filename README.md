@@ -109,19 +109,23 @@
 <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/>
 </a>
 
+</p>
+
 ---
 
 ## 📊 GitHub Stats
 
-<div align="center">
+<p>
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=adilkhan110&show_icons=true&locale=en&layout=compact" alt="adilkhan110" />
+</p>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=adilkhan110&show_icons=true&theme=tokyonight&hide_border=true" />
+<p>
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=adilkhan110&show_icons=true&locale=en" alt="adilkhan110" />
+</p>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adilkhan110&layout=compact&theme=tokyonight&hide_border=true" />
-
-<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=adilkhan110&theme=tokyonight&hide_border=true" />
-
-</div>
+<p>
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=adilkhan110&" alt="adilkhan110" />
+</p>
 
 ---
 
