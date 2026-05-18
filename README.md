@@ -119,13 +119,6 @@
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=adilkhan110&show_icons=true&locale=en&layout=compact" alt="adilkhan110" />
 </p>
 
-<p>
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=adilkhan110&show_icons=true&locale=en" alt="adilkhan110" />
-</p>
-
-<p>
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=adilkhan110&" alt="adilkhan110" />
-</p>
 
 ---
 
