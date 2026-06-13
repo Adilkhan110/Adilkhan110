@@ -20,7 +20,7 @@
 
 ## 💫 About Me
 
-* 🎓 Currently pursuing **Higher Diploma in Software Engineering (HDSE)** at **Aptech Gulshan-e-Hadeed**
+* 🎓 Currently pursuing **Advanced Diploma in Software Engineering (ADSE)** at **Aptech Gulshan-e-Hadeed**
 * 🔭 Currently working on **Modern Web & Mobile Applications**
 * 🌱 Currently learning **Advanced Software Engineering & ACCP 2.0**
 * 👯 Looking to collaborate on **Full-Stack Development & Flutter Projects**
